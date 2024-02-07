@@ -1,0 +1,19 @@
+{
+  "name": "test-npm-version-bump",
+  "version": "1.0.0",
+  "description": "Automatic PR version bump testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eryanph/test-npm-version-bump.git"
+  },
+  "author": "Emmanuel Ryan Gamlanga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eryanph/test-npm-version-bump/issues"
+  },
+  "homepage": "https://github.com/eryanph/test-npm-version-bump#readme"
+}
