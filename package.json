@@ -1,6 +1,6 @@
 {
   "name": "test-npm-version-bump",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automatic PR version bump testing.",
   "main": "index.js",
   "scripts": {
