@@ -1,4 +1,4 @@
-# Test NPM version bump
+# Test NPM version bumpp
 
 Should automatically bump version every pull request.
 
